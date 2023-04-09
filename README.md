@@ -51,6 +51,12 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="pyhton" width="40" height="40"/>
 </div>
 
+---
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/kirillofOK)
+
 
 
 
