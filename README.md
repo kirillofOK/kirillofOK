@@ -55,7 +55,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/kirillofOK)
+![codewars](https://www.codewars.com/users/kirillofOK/badges/large)
 
 
 
