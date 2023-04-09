@@ -37,14 +37,14 @@
 
 ### Стек технологий:
 
--Golang
--PostgreSQL
--Linux
--gRPC
--REST
--Docker
--Python3
--C++
+- :Golang
+- :PostgreSQL
+- :Linux
+- :gRPC
+- :REST
+- :Docker
+- :Python3
+- :C++
 
 
 
